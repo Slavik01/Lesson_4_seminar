@@ -1,0 +1,15 @@
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/bin/Debug/net6.0/One
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/bin/Debug/net6.0/One.deps.json
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/bin/Debug/net6.0/One.runtimeconfig.json
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/bin/Debug/net6.0/One.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/bin/Debug/net6.0/One.pdb
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.csproj.AssemblyReference.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.AssemblyInfoInputs.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.AssemblyInfo.cs
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.csproj.CoreCompileInputs.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/refint/One.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.pdb
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/One.genruntimeconfig.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/One/obj/Debug/net6.0/ref/One.dll

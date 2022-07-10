@@ -1,0 +1,15 @@
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/bin/Debug/net6.0/Three
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/bin/Debug/net6.0/Three.deps.json
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/bin/Debug/net6.0/Three.runtimeconfig.json
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/bin/Debug/net6.0/Three.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/bin/Debug/net6.0/Three.pdb
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.csproj.AssemblyReference.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.AssemblyInfoInputs.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.AssemblyInfo.cs
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.csproj.CoreCompileInputs.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/refint/Three.dll
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.pdb
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/Three.genruntimeconfig.cache
+/Users/slavik/Desktop/GeekBrains/C#/Lesson_4_seminar/Homework_4_seminar/Three/obj/Debug/net6.0/ref/Three.dll
